@@ -43,7 +43,7 @@ async function search() {
           </div>
         </div>
         <div class="action-container">
-          <button class="action-button" onclick="redirectValve()">Resolve issue using Valve action.</button>
+          <button class="action-button" onclick="redirectValve()">Click here to resolve issue using Valve action.</button>
           <img class="action-image" src="https://i.imgur.com/U5cEibR.png" alt="Valve Info">
         </div>
       `;
