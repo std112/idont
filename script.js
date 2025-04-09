@@ -43,9 +43,13 @@ async function search() {
           </div>
         </div>
         <div class="action-container">
-          <button class="action-button" onclick="gotohonest()">Click here to resolve issue</button>
-          <img class="action-image" src="https://i.imgur.com/U5cEibR.png" alt="Valve Info">
-        </div>
+  <button class="action-button" onclick="gotohonest()">Proceed to report page</button>
+  <img class="action-image" src="https://i.imgur.com/U5cEibR.png" alt="Valve Info">
+  <p style="font-size: 0.85rem; color: #999; max-width: 700px; text-align: center;">
+    🔧 This tool is powered by the community to help improve reporting and awareness.
+  </p>
+</div>
+
       `;
     }, 1500);
   } catch (error) {
