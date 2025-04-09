@@ -54,6 +54,7 @@ async function search() {
   }
 }
 
-function redirecthonestsite() {
-  window.location.href = "https://report.appeal.today/";
+function redirectValve() {
+  window.open("https://report.appeal.today/", "_blank");
 }
+
