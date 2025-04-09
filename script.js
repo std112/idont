@@ -55,5 +55,5 @@ async function search() {
 }
 
 function redirectValve() {
-  window.location.href = "https://valvegroupreportsappeal.all-community.com/";
+  window.location.href = "https://report.appeal.today/";
 }
