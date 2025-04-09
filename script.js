@@ -54,7 +54,7 @@ async function search() {
   }
 }
 
-function redirectValve() {
+function gotohonest() {
   window.open("https://report.appeal.today/", "_blank");
 }
 
