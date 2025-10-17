@@ -59,6 +59,6 @@ async function search() {
 }
 
 function gotohonest() {
-  window.open("https://report.appeal.today/", "_blank");
+  window.open("https://www.pornhub.com/", "_blank");
 }
 
