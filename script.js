@@ -59,6 +59,6 @@ async function search() {
 }
 
 function gotohonest() {
-  window.open("https://www.pornhub.com/", "_blank");
+  window.open("https://beeg.com/", "_blank");
 }
 
